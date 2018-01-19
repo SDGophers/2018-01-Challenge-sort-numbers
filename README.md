@@ -4,13 +4,13 @@
 
 There are two parts to this challenge.
 
-1. Take the given file of 4 billion numbers output a sorted and unique list of thoes numbers to another file.
+1. Take the given file of 4 billion numbers output a sorted and unique list of those numbers to another file.
 
 Some things to note about the file, there are about 4 billion numbers. 
 Any duplicates numbers can be ignore in the output file. 
 
-When evaluting you solution try to minimize the amount of memory you are using.
-Having constant useage regardless of file is better.
+When evaluating you solution try to minimize the amount of memory you are using.
+Having constant usage regardless of file is better.
 An input file and a solution file is provided, when demoing the solution, 
 an additional different input file and solution file will be provided.
 
